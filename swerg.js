@@ -1,4 +1,4 @@
-//store question text, options and answers in an array
+//store question text, options and answers in an array style
 const questions = [
   {
     questionText: "Commonly used data types DO NOT include:",
