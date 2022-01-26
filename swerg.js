@@ -34,9 +34,9 @@ const questions = [
   },
   {
     questionText:
-      "Which of the following is a statement that can be used to terminate a loop, switch or label statement?",
-    options: ["1. break", "2. stop", "3. halt", "4. exit"],
-    answer: "1. break",
+      "what is the definition of DOM?",
+    options: ["1. Document Object Model", "2. Display On Mode", "3. Direction of Me", "4. Down Object Mirror"],
+    answer: "1. Document Object Model",
   },
 ];
 
