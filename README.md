@@ -10,4 +10,6 @@ When you've answered all the questions or the timer runs out of time, you will b
 ![image](https://user-images.githubusercontent.com/96890575/151097064-c7425ed3-bfb4-47c3-9a94-2354f1d57543.png)
 ![image](https://user-images.githubusercontent.com/96890575/151097080-1a71ca1e-a6e4-45ad-9e50-670c897679ad.png)
 ![image](https://user-images.githubusercontent.com/96890575/151097383-4c0324be-e403-4726-97e1-c399086cc7bb.png)
+![image](https://user-images.githubusercontent.com/96890575/151097927-5455db3c-a998-41ee-96ac-eaa3464d6a89.png)
+
 
