@@ -127,7 +127,7 @@ function optionIsCorrect(optionButton) {
   return optionButton.textContent === questions[currentQuestion].answer;
 }
 
-//if answer is incorrect, penalise time
+//if answer is incorrect, penalise time..
 function checkAnswer(eventObject) {
   let optionButton = eventObject.target;
   resultDiv.style.display = "block";
